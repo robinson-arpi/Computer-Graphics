@@ -15,3 +15,5 @@ This Python script uses Pygame and OpenGL to render a 3D tetrahedron. The tetrah
 - The `glRotatef` function controls the rotation of the tetrahedron. You can modify its parameters to change the rotation axis and speed.
 
 Feel free to experiment and customize the script to create your own 3D graphics.
+
+![Sierpinski 3D rotation](https://user-images.githubusercontent.com/128093285/275682536-c55bff4d-8afb-4cd3-9e01-e6799a7e1179.gif)
